@@ -5,7 +5,7 @@
 
 
 
-As a university student, I'm passionate about software development. Specializing in data engineering and data science, with experience in programming in C# and Rust. I'm eager to contribute to challenging projects and continually learn.
+As a university student, I'm passionate about software development. Specializing in data engineering and data science, with experience in programming in Python, C#, and Rust. I'm eager to contribute to challenging projects and continually learn.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [blancofacundo0@gmail.com](mailto:blancofacundo0@gmail.com)
