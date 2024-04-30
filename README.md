@@ -24,10 +24,3 @@
 
 <a href="https://github.com/FacuSB" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuSB&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/FacuSB/PI_MLOps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FacuSB&repo=PI_MLOps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/FacuSB/PI_DA" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FacuSB&repo=PI_DA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/FacuSB/PF_Grupal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FacuSB&repo=PF_Grupal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
